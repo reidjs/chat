@@ -1,10 +1,10 @@
-# The M Programming Language
+# The Mob Programming Language
 The first programming language optimized for developing software from a mobile device. 
 
 ## Why?
-JavaScript, C, and most other conventional programming languages are cumbersome to write from a mobile keyboard, while `M` is optimized to be written on your phone without any special software. For example, 
+JavaScript, C, and most other conventional programming languages are cumbersome to write from a mobile keyboard, while `Mob` is optimized to be written on your phone without any special software. For example, 
 1. Phone keyboards tend to start each new line with the shift (capital) key on, so a capital letter (A-Z) denotes the beginning of a statement. 
-2. `M` prefers short words like `and`, `or`, and `fun` instead of `&&`, `||` or `function`. Special characters like `(&|{};)` tend to be more difficult to write from a mobile device. 
+2. `Mob` prefers short words like `and`, `or`, and `fun` instead of `&&`, `||` or `function`. Special characters like `(&|{};)` tend to be more difficult to write from a mobile device. 
 
 # Examples
 ## Hello, world
@@ -87,7 +87,7 @@ How can we enable the user to run and debug their code from the phone?
 
 
 ## Request for Help
-If you find m lang interesting, potentially useful, or a bit silly, contact me! You can find my email in my GitHub profile, just mention `m lang` or The M Programming Language, or something like that in the subject and I will respond as soon as possible. 
+If you find m lang interesting, potentially useful, or a bit silly, contact me! You can find my email in my GitHub profile, just mention `mob lang` or The Mob Programming Language, or something like that in the subject and I will respond as soon as possible. 
 
 Thank you,
 
