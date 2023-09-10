@@ -2,7 +2,7 @@
 The first programming language optimized for developing software from a mobile device. 
 
 ## Why?
-JavaScript, C, and most other conventional programming languages are cumbersome to write from a mobile keyboard on a mobile device, while `M` is optimized to be written on one. For example, 
+JavaScript, C, and most other conventional programming languages are cumbersome to write from a mobile keyboard, while `M` is optimized to be written on your phone without any special software. For example, 
 1. Phone keyboards tend to start each new line with the shift (capital) key on, so a capital letter (A-Z) denotes the beginning of a statement. 
 2. `M` prefers short words like `and`, `or`, and `fun` instead of `&&`, `||` or `function`. Special characters like `(&|{};)` tend to be more difficult to write from a mobile device. 
 
