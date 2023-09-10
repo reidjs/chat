@@ -24,10 +24,9 @@ Comment this line will be ignored because it starts with the word "comment"
 ```
 
 ```
-Comments these lines will be ignored until the word capitalized word "end" 
-
+Comments 
+these lines will be ignored until the word capitalized word "end" 
 because of the 's' at the end of the word "comments"
-
 End
 ```
 
