@@ -2,7 +2,7 @@
 The first programming language optimized for developing software from a mobile device. 
 
 ## What problem is this trying to solve?
-JavaScript, C, and most other conventional programming languages are cumbersome to write from a mobile keyboard. M solves this by having a syntax that is optimized to be written by a mobile phone keyboard. For example, 
+JavaScript, C, and most other conventional programming languages are cumbersome to write from a mobile keyboard. `M`'s syntax is optimized to be written by a mobile phone keyboard. For example, 
 1. Since phones tend to start each new line with a capital, a capital letter (A-Z) denotes the beginning of a statement. 
 2. `M` Avoids special characters that most languages rely on (&|{};), and prefers A-Z where possible. 
 
@@ -65,8 +65,8 @@ End
 I is 0
 While i less than 10
 Print i
-Comment note that variables are case insensitive, i == I
-I += 1
+Comment "increment i" is eqivalent to i += 1 in most languages
+Increment i
 End
 >> 0123456789
 ```
