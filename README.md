@@ -1,5 +1,5 @@
 # The Mob Programming Language
-The first programming language optimized for developing software from a mobile device. 
+`Mob` is a programming language with syntax optimized for a mobile device keyboards.
 
 ## Why?
 JavaScript, C, and most other conventional programming languages are cumbersome to write from a mobile keyboard, while `Mob` is optimized to be written on your phone without any special software. For example, 
