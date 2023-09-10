@@ -51,7 +51,8 @@ End
 ```
 
 ## Open Questions
-1. How can we enable the user to run and debug their code from the phone? A solution might be a small website (like [repl](https://replit.com/)) that you can easily paste code snippets into and see output etc. 
+How can we enable the user to run and debug their code from the phone?
+  - A solution might be a website like [replit](https://replit.com/) that you can easily paste code snippets into and see the output. 
 
 
 ## Request for Help
