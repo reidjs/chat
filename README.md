@@ -8,21 +8,15 @@ JavaScript, C, and most other conventional programming languages are cumbersome 
 2. Special characters that most languages rely on like `(&|{};)` are difficult to write from a mobile device.
   - `Mob` prefers short words like `and`, `or`, and `fun` instead of `&&`, `||` or `function`. 
 
-# Examples
+# Code Examples
+`>>` indicates the output from the program
+
 ## Hello, world
 ```
 Print "Hello, world"
 >> Hello, world
 ```
-*>>* represents the output from running the program
 
-## Math
-```
-Sum is 5 plus 5
-Var product is sum times 10
-Print product
->> 100
-```
 
 ## Comments
 ```
@@ -30,10 +24,20 @@ Comment this line will be ignored because it starts with the word "comment"
 ```
 
 ```
-Comments these lines will be ignored until the word end (with a capital e) because
-of the s at the end of the word "comments"
+Comments these lines will be ignored until the word capitalized word "end" because of the 's' at the end of the word "comments"
 End
 ```
+
+## Math
+```
+Sum is 5 plus 5
+Product is sum times 10
+Comment note that variables are case insensitive, X is the same as x
+Print product
+>> 100
+```
+
+
 
 ## Logic
 ```
@@ -48,7 +52,6 @@ End
 X is true
 Y is true
 Z is false
-Comment note that variables are case insensitive, X is the same as x
 If x and y or z
 Print "yay!!!!"
 End
