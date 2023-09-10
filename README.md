@@ -2,11 +2,9 @@
 The first programming language optimized for developing software from a mobile device. 
 
 ## What problem is this trying to solve?
-Writing JavaScript, C, and most other conventional programming languages are cumbersome to write from a mobile keyboard. Instead of making apps for coding on your phone, it sounds like way more fun to create a brand new programming language! 
-
-## Guiding Principles
-1. Avoid special characters (&^%$), prefer A-Z. Try to avoid too many taps to insert the specific character.
-2. Since phones tend to Start each new line with a capital, perhaps we can use that to our advantage. A capital letter (A-Z) denotes the beginning of a statement.
+Writing JavaScript, C, and most other conventional programming languages are cumbersome to write from a mobile keyboard. M solves this by having a syntax that is specialized for a mobile phone keyboard. For example, 
+1. Since phones tend to start each new line with a capital, A capital letter (A-Z) denotes the beginning of a statement. 
+2. `M` Avoids special characters (&^%$), and prefers A-Z. 
 
 ## Hello, world
 ```
@@ -17,6 +15,16 @@ Print "Hello, world"
 ```
 Var sum = 5 + 5
 Var product = sum * 10
+```
+
+## Logic
+```
+Var x = true
+Var y = true
+Var z = false
+If x and y or z
+Print "yay!!!!"
+End
 ```
 
 ## Loops
