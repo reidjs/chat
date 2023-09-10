@@ -58,7 +58,7 @@ End
 For i is 0, i less than 10, increase i
 Print i
 End
->> 123456789
+>> 0123456789
 ```
 ### While loop
 ```
@@ -68,7 +68,7 @@ Print i
 Comment note that variables are case insensitive, i == I
 I += 1
 End
->> 123456789
+>> 0123456789
 ```
 
 ## Functions
