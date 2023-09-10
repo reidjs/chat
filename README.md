@@ -1,11 +1,12 @@
 # The M Programming Language
 The first programming language optimized for developing software from a mobile device. 
 
-## What problem is this trying to solve?
+## Why?
 JavaScript, C, and most other conventional programming languages are cumbersome to write from a mobile keyboard. `M`'s syntax is optimized to be written by a mobile phone keyboard. For example, 
 1. Since phones tend to start each new line with a capital, a capital letter (A-Z) denotes the beginning of a statement. 
 2. `M` Avoids special characters that most languages rely on (&|{};), and prefers A-Z where possible. 
 
+# Examples
 ## Hello, world
 ```
 Print "Hello, world"
