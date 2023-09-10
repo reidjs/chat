@@ -24,7 +24,7 @@ Comment this line will be ignored because it starts with the word "comment"
 
 ```
 Comments these lines will be ignored until the word end (with a capital e) because
-the word comment is plural, "comments"
+of the s at the end of the word "comments"
 End
 ```
 
