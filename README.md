@@ -25,16 +25,17 @@ Comment this line will be ignored because it starts with the word "comment"
 
 ```
 Comments 
-these lines will be ignored until the word capitalized word "end" 
-because of the 's' at the end of the word "comments"
+These lines will be ignored until the word capitalized word "end" 
+because of the 's' at the end of the word "comments."
 End
 ```
 
 ## Math
+Note: variables are case insensitive, Product is the same as product
+
 ```
 Sum is 5 plus 5
 Product is sum times 10
-Comment note that variables are case insensitive, X is the same as x
 Print product
 >> 100
 ```
@@ -69,11 +70,12 @@ End
 >> 0123456789
 ```
 ### While loop
+Note: "increment i" is eqivalent to i += 1 in most languages
+
 ```
 I is 0
 While i less than 10
 Print i
-Comment "increment i" is eqivalent to i += 1 in most languages
 Increment i
 End
 >> 0123456789
@@ -94,7 +96,7 @@ How can we enable the user to run and debug their code from the phone?
 
 
 ## Contact
-If you find mob lang interesting, potentially useful, or a bit silly, contact me! You can find my email in my GitHub profile, just mention `mob lang` or The Mob Programming Language, or something like that in the subject and I will respond as soon as possible. 
+If you find Mob interesting, potentially useful, or a bit silly, contact me! You can find my email in my GitHub profile, just mention `Mob lang` or The Mob Programming Language, or something like that in the subject and I will respond as soon as possible. 
 
 Thank you,
 
