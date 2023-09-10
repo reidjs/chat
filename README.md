@@ -2,8 +2,8 @@
 The first programming language optimized for developing software from a mobile device. 
 
 ## What problem is this trying to solve?
-Writing JavaScript, C, and most other conventional programming languages are cumbersome to write from a mobile keyboard. M solves this by having a syntax that is specialized for a mobile phone keyboard. For example, 
-1. Since phones tend to start each new line with a capital, A capital letter (A-Z) denotes the beginning of a statement. 
+JavaScript, C, and most other conventional programming languages are cumbersome to write from a mobile keyboard. M solves this by having a syntax that is optimized to be written by a mobile phone keyboard. For example, 
+1. Since phones tend to start each new line with a capital, a capital letter (A-Z) denotes the beginning of a statement. 
 2. `M` Avoids special characters that most languages rely on (&|{};), and prefers A-Z where possible. 
 
 ## Hello, world
