@@ -3,8 +3,10 @@ The first programming language optimized for developing software from a mobile d
 
 ## Why?
 JavaScript, C, and most other conventional programming languages are cumbersome to write from a mobile keyboard, while `Mob` is optimized to be written on your phone without any special software. For example, 
-1. Phone keyboards tend to start each new line with the shift (capital) key on, so a capital letter (A-Z) denotes the beginning of a statement. 
-2. `Mob` prefers short words like `and`, `or`, and `fun` instead of `&&`, `||` or `function`. Special characters like `(&|{};)` tend to be more difficult to write from a mobile device. 
+1. Phone keyboards tend to start each new line with the shift (capital) key on.
+  - In `Mob`, a capital letter (A-Z) denotes the beginning of a statement. 
+2. Special characters that most languages rely on like `(&|{};)` are difficult to write from a mobile device.
+  - `Mob` prefers short words like `and`, `or`, and `fun` instead of `&&`, `||` or `function`. 
 
 # Examples
 ## Hello, world
