@@ -88,8 +88,8 @@ How can we enable the user to run and debug their code from the phone?
   - A solution might be a website like [replit](https://replit.com/) that you can easily paste code snippets into and see the output. 
 
 
-## Request for Help
-If you find m lang interesting, potentially useful, or a bit silly, contact me! You can find my email in my GitHub profile, just mention `mob lang` or The Mob Programming Language, or something like that in the subject and I will respond as soon as possible. 
+## Contact
+If you find mob lang interesting, potentially useful, or a bit silly, contact me! You can find my email in my GitHub profile, just mention `mob lang` or The Mob Programming Language, or something like that in the subject and I will respond as soon as possible. 
 
 Thank you,
 
