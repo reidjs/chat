@@ -13,15 +13,27 @@ Print "Hello, world"
 
 ## Math
 ```
-Var sum = 5 + 5
-Var product = sum * 10
+Sum is 5 plus 5
+Var product is sum times 10
+```
+
+## Comments
+```
+Comment this line will be ignored because it starts with the word "comment"
+```
+
+```
+Comments these lines will be ignored until the word end (with a capital e) because
+the word comment is plural, "comments"
+End
 ```
 
 ## Logic
 ```
-Var x = true
-Var y = true
-Var z = false
+X is true
+Y is true
+Z is false
+Comment note that variables are case insensitive, X is the same as x
 If x and y or z
 Print "yay!!!!"
 End
@@ -30,15 +42,15 @@ End
 ## Loops
 ### For loop
 ```
-For i = 0; i < 10; i++
+For i is 0, i less than 10, increase i
 Print i
 End
 ```
 ### While loop
 ```
-While i < 10
+While i less than 10
 Print i
-// Note that variables are case insensitive, i == I
+Comment note that variables are case insensitive, i == I
 I += 1
 End
 ```
