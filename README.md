@@ -9,12 +9,16 @@ JavaScript, C, and most other conventional programming languages are cumbersome 
 ## Hello, world
 ```
 Print "Hello, world"
+>> Hello, world
 ```
+*>>* represents the output from running the program
 
 ## Math
 ```
 Sum is 5 plus 5
 Var product is sum times 10
+Print product
+>> 100
 ```
 
 ## Comments
@@ -34,6 +38,7 @@ X is 5
 If x equals 5
 Print "yay!!!!"
 End
+>> yay!!!!
 ```
 
 ```
@@ -44,6 +49,7 @@ Comment note that variables are case insensitive, X is the same as x
 If x and y or z
 Print "yay!!!!"
 End
+>> yay!!!!
 ```
 
 ## Loops
@@ -52,14 +58,17 @@ End
 For i is 0, i less than 10, increase i
 Print i
 End
+>> 123456789
 ```
 ### While loop
 ```
+I is 0
 While i less than 10
 Print i
 Comment note that variables are case insensitive, i == I
 I += 1
 End
+>> 123456789
 ```
 
 ## Functions
@@ -67,6 +76,8 @@ End
 Fun add a, b
 Return a + b
 End
+Call add 5, 5
+>> 10
 ```
 
 ## Open Questions
