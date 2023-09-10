@@ -43,10 +43,11 @@ End
 ```
 
 ## Open Questions
-1. How can we enable the user to run and debug their code from the phone? That might require an app to be honest.
+1. How can we enable the user to run and debug their code from the phone? A solution might be a small website (like [repl](https://replit.com/)) that you can easily paste code snippets into and see output etc. 
+
 
 ## Request for Help
-If you find m lang fascinating, potentially useful, or even silly, contact me! Send me an email and mention `m lang` or The M Programming Language, or something along those lines and I will respond as soon as possible. 
+If you find m lang interesting, potentially useful, or a bit silly, contact me! You can find my email in my GitHub profile, just mention `m lang` or The M Programming Language, or something like that in the subject and I will respond as soon as possible. 
 
 Thank you,
-Reid
+Reid JS
