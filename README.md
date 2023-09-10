@@ -30,6 +30,13 @@ End
 
 ## Logic
 ```
+X is 5
+If x equals 5
+Print "yay!!!!"
+End
+```
+
+```
 X is true
 Y is true
 Z is false
