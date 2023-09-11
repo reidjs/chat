@@ -1,7 +1,7 @@
 # TODO
-1. Create the Mob Scanner that scans a .mob source code file and groups keywords, identifiers, etc into `tokens`
-2. Create the Mob Parser that reads the tokens from the scanner and outputs an Abstract Syntax Tree (AST) for the language
-3. Traverse the AST to output valid JavaScript from the parser. 
+I. Create the Mob Scanner that scans a .mob source code file and groups keywords, identifiers, etc into `tokens` which can be understood by the parser
+II. Create the Mob Parser that reads the `tokens` from the scanner and outputs an Abstract Syntax Tree (AST). 
+III. Traverse the AST and output valid JavaScript. 
 
 ## I. The Mob Scanner 
 The scanner reads in the source code and groups it into `tokens` - the meaningful "words" and "punctuation" that make up Mob's grammar. Think of it like a big switch statement.
@@ -16,7 +16,7 @@ Test your lexer with sample input to ensure it correctly tokenizes your language
 Resources:
 
 https://web.mit.edu/gnu/doc/html/flex_1.html
-
+https://begriffs.com/posts/2021-11-28-practical-parsing.html
 
 
 ## II. The Mob Parser
