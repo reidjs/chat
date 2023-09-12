@@ -1,12 +1,12 @@
-# The Mob Programming Language
-`Mob` is a programming language with syntax optimized for mobile device keyboards.
+# The Chat Programming Language
+`Chat` is a programming language with syntax optimized for mobile device keyboards.
 
 ## Why?
-JavaScript, C, and most other conventional programming languages are cumbersome to write from a mobile keyboard, while `Mob` is optimized to be written on your phone without any special software. For example, 
+JavaScript, C, and most other conventional programming languages are cumbersome to write from a mobile keyboard, while `Chat` is optimized to be written on your phone without any special software. For example, 
 1. Phone keyboards tend to start each new line with the shift (capital) key on.
-  - In `Mob`, a capital letter (A-Z) denotes the beginning of a statement. 
+  - In `Chat`, a capital letter (A-Z) denotes the beginning of a statement. 
 2. Special characters that most languages rely on like `(&|{};)` are difficult to write from a mobile device.
-  - `Mob` prefers short words like `and`, `or`, and `fun` instead of `&&`, `||` or `function`. 
+  - `Chat` prefers short words like `and`, `or`, and `fun` instead of `&&`, `||` or `function`. 
 
 # Code Examples
 `>>` indicates the output from the program
@@ -96,7 +96,7 @@ How can we enable the user to run and debug their code from the phone?
 
 
 ## Contact
-If you find Mob interesting, potentially useful, or a bit silly, contact me! You can find my email in my GitHub profile, just mention `Mob lang` or The Mob Programming Language, or something like that in the subject and I will respond as soon as possible. 
+If you find Chat interesting, potentially useful, or a bit silly, contact me! You can find my email in my GitHub profile, just mention `Chat lang` or The Chat Programming Language, or something like that in the subject and I will respond as soon as possible. 
 
 Thank you,
 
